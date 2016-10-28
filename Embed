@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Embed?</title>
+  </head>
+  <body>
+    <script src="//play.vidyard.dev/v0/api.js?preview=1"></script>
+    <script id="vidyard_embed_code_ESiUhtpQVv6Y8m9qTsKYxu" src="//play-staging-superman.vidyard.com/ESiUhtpQVv6Y8m9qTsKYxu.js?preview=1&debug=1&force_analytics=1"></script>
+    <script>
+'use strict';
+
+const player = new Vidyard.player('ESiUhtpQVv6Y8m9qTsKYxu');
+player.on('ready', function() {
+  console.log('Player is ready')
+
+  player.play();
+  setTimeout(function() { player.seek(20); }, 5000);
+});
+//player.on('timeupdate', d => console.log(`Player is at: ${d}`));
+
+    </script>
+  </body>
+</html>

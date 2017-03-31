@@ -4,16 +4,75 @@
     <title>Try some forms</title>
   </head>
   <body>
+    <div>
+      <h2>User Sign-up</h2>
+
+      <style>
+        .success { background-color: #90ee90 }
+        .error { background-color: #d87093 }
+      </style>
+
+      <script
+        src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+        crossorigin="anonymous"></script>
+
+      <script type="text/javascript">
+        $(function () {
+          function submit(e) {
+            e.preventDefault();
+
+            $('#result').removeClass('error');
+            $('#result').removeClass('success');
+            $('#result').text('loading ...');
+
+            $.ajax({
+              url: "https://staging-superman.vidyard.com/user.json",
+              data: {
+                'user[email]': $("#email").val(),
+                'user[password]': $("#password").val()
+              },
+              dataType: "json",
+              type: 'POST',
+              success: function (resp) {
+                console.log('submited to vidyard');
+                console.log(resp);
+                $('#result').text(JSON.stringify(resp));
+              },
+              error: function(e) {
+                console.log('Error: ');
+                console.log(e);
+                $('#result').text(e.toString());
+              }
+            });
+          }
+
+          $('#submit').click(submit);
+        });
+
+        </script>
+
+      <form id="signup">
+        <input id="email" name="email" placeholder="Email Address" />
+        <input id="password" name="password" placeholder="Password" />
+      </form>
+
+      <button id="submit">Sign up</button>
+
+      <p>Result:</p>
+      <p id="result"></p>
+    </div>
+
     <table>
       <tr>
         <td>
           <h2>Act-On Form</h2>
           <a href="http://vidyard.actonsoftware.com/acton/form/8641/000b:d-0001/0/-/-/-/-/index.htm" target="_new">Link to Act-On form, opens in new window</a>
-          
+
           <h2>Marketo Form</h2>
           <script src="//app-sj04.marketo.com/js/forms2/js/forms2.min.js"></script>
           <form id="mktoForm_1086"></form>
-          <script>MktoForms2.loadForm("//app-sj04.marketo.com", "103-MWY-702", 1086);</script> 
+          <script>MktoForms2.loadForm("//app-sj04.marketo.com", "103-MWY-702", 1086);</script>
 
           <h2>Hubspot Form</h2>
           <!--[if lte IE 8]>
@@ -21,17 +80,17 @@
 <![endif]-->
           <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
           <script>
-            hbspt.forms.create({ 
+            hbspt.forms.create({
               css: '',
               portalId: '201847',
               formId: '6939e71d-3457-4010-adc2-9655f065e78f'
             });
           </script>
-          
+
           <h2>Pardot Form</h2>
           <a href="http://go.pardot.com/l/271802/2016-10-26/6p" taret="_new">Link to Pardot form, opens in new window.</a>
         </td>
-        
+
         <td>
           <h2>Video Awesomesauce</h2>
           <script type="text/javascript" id="vidyard_embed_code_4d9Ej6jhaNJzjuyr6LSGJf" src="//play-staging-superman.vidyard.com/4d9Ej6jhaNJzjuyr6LSGJf.js?v=3.1.1&type=inline"></script>

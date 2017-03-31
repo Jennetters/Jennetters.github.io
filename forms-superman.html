@@ -46,7 +46,9 @@
 
             <script type="text/javascript">
               $(function () {
-                function submit() {
+                function submit(e) {
+                  e.preventDefault();
+
                   $('#result').removeClass('error');
                   $('#result').removeClass('success');
                   $('#result').text('loading ...');

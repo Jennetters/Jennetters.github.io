@@ -34,10 +34,12 @@
 					const added = document.createElement('div');
 					added.className = 'player';
 
-					if (e.details.embed_codes) {
-						added.innerHTML = e.details.embed_codes.light_box;
+					if (e.detail) {
+						added.innerText = '--- No details ---';
+					} else if (e.detail.embed_codes) {
+						added.innerHTML = e.detail.embed_codes.light_box;
 					} else {
-						added.innerText = e.details.name;
+						added.innerText = e.detail.name;
 					}
 
 					players.appendChild(added);

@@ -28,11 +28,29 @@
 
 		<h2>Ebert Is Awesome</h2>
 		<div id="wrapper">
+			<script type="text/javascript">
+				window.addEventListener('vy-player-created', e => {
+					var players = document.getElementById('players');
+					const added = document.createElement('div');
+					added.className = 'player';
+
+					if (e.details.embed_codes) {
+						added.innerHTML = e.details.embed_codes.light_box;
+					} else {
+						added.innerText = e.details.name;
+					}
+
+					players.appendChild(added);
+				});
+			</script>
 			<script
 				type="text/javascript"
 				id="vidyard_embed_client"
 				src="https://app-staging.vidyard.com/v1/embed.js?client_id=jennetters.github.io">
 			</script>
+		</div>
+		<div id="players">
+
 		</div>
 	</div>
 	</div>

@@ -34,7 +34,7 @@
 					const added = document.createElement('div');
 					added.className = 'player';
 
-					if (e.detail) {
+					if (!e.detail) {
 						added.innerText = '--- No details ---';
 					} else if (e.detail.embed_codes) {
 						added.innerHTML = e.detail.embed_codes.light_box;

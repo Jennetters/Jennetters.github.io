@@ -44,12 +44,12 @@
 
       // Different components will support different events.
       // Currently only 'player:created' on the 'VideoLibrary' is supported
-      library.on('player:created', ({player, embed_codes}) => {
+      library.on('player:created', function (data) {
         alert('Player Created!');
 
         // player has http://api.vidyard.com/docs/dashboard/1.0/api_players/show.html
         // embed_codes has http://api.vidyard.com/docs/dashboard/1.0/api_players/embed_codes.html
-        console.log(player);
+        console.log(data.player);
       });
     </script>
 		

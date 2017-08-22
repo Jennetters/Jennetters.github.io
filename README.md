@@ -1,3 +1,5 @@
 # Jennetters.github.io
 
-These are some random forms for testing our integrations. I putted them in one place to make my life easier.
+![Onwards!](https://media.giphy.com/media/f4llK7Di6H13W/giphy.gif)
+
+QA Video Awesomesauce has moved to it's very own Repo within our organization, FidgetCube.

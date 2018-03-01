@@ -5,12 +5,16 @@ date:   2018-02-25 21:59:39 -0500
 categories: jekyll update, iris keyboard, mechanical keyboard
 ---
 
-Wooooo boy!! I've been anxiously waiting for all of the things and now they're here! Well, all but the cables, nbd I can make do. So, after a busy birthday weekend it's time to get this party started!
+Wooooo boy!! I've been anxiously waiting for all of the things and stalking my tracking information, and now they're here! Well, all but the cables. NBD. I can make do. So, after a busy birthday weekend (not mine) it's time to get this party started!
 
-[All the bits!]({{https://photos.app.goo.gl/GFv1HjxePk74CnBu1}}) 
+I remembered to snap a few pictures of all the bits, and once I get a better handle on Liquid/Jekyll, I'll fix these posts up.
 
-The build is pretty straight forward from Keeb.io [https://docs.keeb.io/iris-build-guide.html].
+The build is pretty straight forward from [Keeb.io](https://docs.keeb.io/iris-build-guide.html) however, I feel the need to point out that I've never actually built anything electronic in my life, or used a soldering iron. In my defence, I was in a metalsmithing class for a bit and did learn to solder fine jewellery with an acetylene torch, so I have some relevant experience working with molten metal and being precise.
 
-Step 1, solder the diodes... so many diodes: https://photos.app.goo.gl/OCSgyceBbzmbPwJI3
+Here we go:
+
+Step 1, solder the diodes... so many diodes.
+
+More pictures should go here..
 
 And that's enough for one night.

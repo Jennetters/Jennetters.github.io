@@ -7,7 +7,7 @@ categories: jekyll update, iris keyboard, mechanical keyboard
 
 Wooooo boy!! I've been anxiously waiting for all of the things and now they're here! Well, all but the cables, nbd I can make do. So, after a busy birthday weekend it's time to get this party started!
 
-https://photos.app.goo.gl/GFv1HjxePk74CnBu1 - All the bits!
+[All the bits!]({{https://photos.app.goo.gl/GFv1HjxePk74CnBu1}}) 
 
 The build is pretty straight forward from Keeb.io [https://docs.keeb.io/iris-build-guide.html].
 

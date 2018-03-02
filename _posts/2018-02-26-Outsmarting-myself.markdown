@@ -7,6 +7,8 @@ categories: jekyll update, iris keyboard, mechanical keyboard
 
 Working is hard when you just want to go home and continue doing the fun things that being at work prevents you from doing, but also funds. Halp. Adulting problems.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 First of all: How are MOFSETS so small? I saw them in the package but I didn't realize the itty bitty thing that I received was just a container holding two much smaller ittier bittier things that I literally need to hold with tweezers to solder. Egads. I think I did it just fine. No problemo.
 
 So I was pretty confident that I could finish the rest of the soldering, and then this happened:

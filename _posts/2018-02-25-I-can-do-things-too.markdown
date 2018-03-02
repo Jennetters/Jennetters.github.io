@@ -15,6 +15,6 @@ Here we go:
 
 Step 1, solder the diodes... so many diodes.
 
-More pictures should go here..
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 And that's enough for one night.

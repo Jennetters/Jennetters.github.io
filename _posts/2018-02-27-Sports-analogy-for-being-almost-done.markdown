@@ -14,3 +14,5 @@ My keyboard is turning out exactly how I had hoped! It's pretty, it's clickey, i
 The trouble now is that flashing it with a Windows computer is proving to be a real pain. I can't see any reason why it shouldn't be working, I've got the drivers, the Pro Micros are recogized when I connect them (yay for not damaging one lastnight). I'm going to see if one of my co-workers running a Mac or Linux machine can try for me.
 
 More pictures of my pretty:
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

@@ -19,3 +19,5 @@ Now I'm suspecting that I _did_ damage the Pro Micro on Monday. I'll have to dig
 C'est la vie.
 
 Still, see how pretty?
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

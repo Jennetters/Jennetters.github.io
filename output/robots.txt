@@ -1,0 +1,4 @@
+Sitemap: https://jennetters.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: jennetters.github.io

@@ -141,7 +141,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "mdl"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -1359,7 +1359,44 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+        "mdl__version": "1.3.0",
+        "mdl__color_scheme": "indigo-pink",
+        "mdl__roboto_font": False,
+        "mdl__late_load_css": False,
+        "mdl__cachebusting": "1",
+        "mdl__fixed_header": False,
+        "mdl__fixed_drawer": False,
+        "mdl__no_drawer_button": False,
+        "mdl__no_desktop_drawer_button": False,
+        "mdl__multiple_header": False,
+        "mdl__header_scroll": False,
+        "mdl__header_waterfall": False,
+        "mdl__header_waterfall_hide_top": False,
+        "mdl__header_transparent": False,
+        "mdl__header_seamed": False,
+        "mdl__footer": "",
+        "mdl__navigation_large_screen_only": False,
+        "mdl__drawer_small_screen_only": False,
+        "mdl__custom_css": False,
+        "mdl__custom_js": False,
+        "drawer_title": "",
+        "drawer_logo_url": "",
+        "drawer_show_title": "",
+        "drawer_description": "",
+        "drawer_note": "",
+        "title_row_middle": False,
+        "navigation_row_middle": False,
+        "breadcrumb_separator": ">",
+        "post_type": {
+            "text": "format_align_justify",
+        },
+        "top_nav_header": False,
+        "more_button_header": [
+            ("/pages/handbook.html", "Handbook", "Handbook"),
+        ],
+        "image_plugin": "colorbox",
+    }
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be

@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
   Masters of the Universe haters need not apply.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jennetters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://jennetters.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jennetters
 linkedin_username: jennette-reid
 twitter_username: jennetters

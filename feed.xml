@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-02T15:12:07-05:00</updated><id>http://localhost:4000/</id><title type="html">What? Like it’s hard?</title><subtitle>Bibliophile, Software Testing Monkey, Mother, Maker of Banana Hammocks, Lover of Bunnies, Aspiring Planeteer. 
+Masters of the Universe haters need not apply.</subtitle><entry><title type="html">From 77 to 30 words per minute… hold on to your butts.</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/02/From-77-to-30-wpm.html" rel="alternate" type="text/html" title="From 77 to 30 words per minute... hold on to your butts." /><published>2018-03-02T08:55:44-05:00</published><updated>2018-03-02T08:55:44-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/02/From-77-to-30-wpm</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/02/From-77-to-30-wpm.html">&lt;p&gt;I have done the thing! Today (right now, in fact) my new pretty keyboard is fully fuctional!&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I had a co-worker flash the keyboard on his mac, thanks for nothing Wandows, which worked without issue. So now here I am with my new sweet setup and having a grand old time fighting muscle meory.&lt;/p&gt;
+
+&lt;p&gt;Not too long ago I borrowed a co-workers “let’s split” and I managed to average 44 which is not terrible. Right now my biggest problem is that I used the upper thumbkeys for space which feels less natural. I can move them later if it becomes a problem. That’s the beauty of a custom keyboard.&lt;/p&gt;
+
+&lt;p&gt;Onwards!&lt;/p&gt;</content><author><name></name></author><summary type="html">I have done the thing! Today (right now, in fact) my new pretty keyboard is fully fuctional!</summary></entry><entry><title type="html">Adventures in desoldering</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/01/Adventures-in-desoldering.html" rel="alternate" type="text/html" title="Adventures in desoldering" /><published>2018-03-01T23:18:28-05:00</published><updated>2018-03-01T23:18:28-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/01/Adventures-in-desoldering</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/03/01/Adventures-in-desoldering.html">&lt;p&gt;Finally had a chance to open up the keyboard and see what the problem was with the dead keys. As it turns out, the issue with the U and J keys was that I didn’t solder the switches. And here I thought I was being so careful, must have been over excited. So I solderd those and plugged the board in and TADAA!!! Right half is fully functional.&lt;/p&gt;
+
+&lt;p&gt;As for the left half, which had the dead row. Well, this is my life now.&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I checked all of the diodes and paths, but I could see one pin on the controller didn’t appear to be soldered, so I tried to solder it and it just. wouldn’t. flow. I’m confident that I damged the Pro Micro when I desoldered it on Monday and the connection for that pin is just toast. I tried several times and couldn’t get it soldered to make the connection.&lt;/p&gt;
+
+&lt;p&gt;So, here I am faced with a really, really gross dillemma. Because of the construction of the board/case plates, if I want to get at the top side of the board to remove the header pins and attach a new Pro Micro, I’ve literally got to desolder all of the switches on the board in order to be able to remove the plate.&lt;/p&gt;
+
+&lt;p&gt;Super disgusting, right?!&lt;/p&gt;
+
+&lt;p&gt;In an ideal world, I could desolder the Pro Micro and leave the pins on the board, then just put a new one in its place. This was harder than it seemed, even though it looked like I had a clean pin I still couldn’t get the Pro Micro off. So, I did what any sane person would do, I grabed some pliers and wire cutters and obliterated the pro micro, leaving the pins intact. Then I desoldered the pins and cleaned everything with a little bit of rubbing alcohol. Good as new… if new was chewed up by a dog and spit out.&lt;/p&gt;
+
+&lt;p&gt;Attaching the new Pro Micro onto the eisting header pins which were a little less than straight was a bit of a challenge, I used some needle nosed pliers to feed them through one at a time but I managed to get it and solder it down.&lt;/p&gt;
+
+&lt;p&gt;Now I’m back to having issues flashing the board because, Wandows.&lt;/p&gt;
+
+&lt;p&gt;And once again, it’s way past my bedtime.&lt;/p&gt;</content><author><name></name></author><summary type="html">Finally had a chance to open up the keyboard and see what the problem was with the dead keys. As it turns out, the issue with the U and J keys was that I didn’t solder the switches. And here I thought I was being so careful, must have been over excited. So I solderd those and plugged the board in and TADAA!!! Right half is fully functional.</summary></entry><entry><title type="html">Who needs A/D/S/F/G/U/J Anyway?</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/28/Who-needs-asdfg-anway.html" rel="alternate" type="text/html" title="Who needs A/D/S/F/G/U/J Anyway?" /><published>2018-02-28T09:13:28-05:00</published><updated>2018-02-28T09:13:28-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/28/Who-needs-asdfg-anway</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/28/Who-needs-asdfg-anway.html">&lt;p&gt;Whelp. Clearly Windows was the culprit. I had a coworker help me flash the Pro Micros and he was able to do it with no troubles on the first try. Neat. Thanks for nothing WANDOWS.&lt;/p&gt;
+
+&lt;p&gt;Now, I’d be a big fat liar if I told you I thought everything would work on my first attempt. I’ve got a few problems. The left keyboard has a dead row… &lt;em&gt;A&lt;/em&gt;, &lt;em&gt;S&lt;/em&gt;, &lt;em&gt;D&lt;/em&gt;, &lt;em&gt;F&lt;/em&gt;, and the right keyboard has two dead keys, &lt;em&gt;U&lt;/em&gt; and &lt;em&gt;J&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Crummy.&lt;/p&gt;
+
+&lt;p&gt;Now I’m suspecting that I &lt;em&gt;did&lt;/em&gt; damage the Pro Micro on Monday. I’ll have to dig in a bit later.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plus side&lt;/strong&gt; - I’ve got a few colleagues with extra Pro Micros which will reduce my waiting time if I need to replace it.
+&lt;strong&gt;Down side&lt;/strong&gt; - More desoldering is definitely in my future.&lt;/p&gt;
+
+&lt;p&gt;C’est la vie.&lt;/p&gt;
+
+&lt;p&gt;Still, see how pretty?&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Whelp. Clearly Windows was the culprit. I had a coworker help me flash the Pro Micros and he was able to do it with no troubles on the first try. Neat. Thanks for nothing WANDOWS.</summary></entry><entry><title type="html">Insert sports analogy for being nearly finished a thing.</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/27/Sports-analogy-for-being-almost-done.html" rel="alternate" type="text/html" title="Insert sports analogy for being nearly finished a thing." /><published>2018-02-27T23:33:39-05:00</published><updated>2018-02-27T23:33:39-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/27/Sports-analogy-for-being-almost-done</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/27/Sports-analogy-for-being-almost-done.html">&lt;p&gt;After taking care of lastnights kerfuffle with the Pro Micro, I am obsessively pouring over each image in the &lt;a href=&quot;https://imgur.com/a/iQH2W&quot;&gt;Iris Build Log&lt;/a&gt; to make sure I don’t have additional troubles.&lt;/p&gt;
+
+&lt;p&gt;As luck would have it, I managed to make it through the rest of the build without incident and took an insane number of pictures.&lt;/p&gt;
+
+&lt;p&gt;My keyboard is turning out exactly how I had hoped! It’s pretty, it’s clickey, it’s MINE.&lt;/p&gt;
+
+&lt;p&gt;The trouble now is that flashing it with a Windows computer is proving to be a real pain. I can’t see any reason why it shouldn’t be working, I’ve got the drivers, the Pro Micros are recogized when I connect them (yay for not damaging one lastnight). I’m going to see if one of my co-workers running a Mac or Linux machine can try for me.&lt;/p&gt;
+
+&lt;p&gt;More pictures of my pretty:&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">After taking care of lastnights kerfuffle with the Pro Micro, I am obsessively pouring over each image in the Iris Build Log to make sure I don’t have additional troubles.</summary></entry><entry><title type="html">Anything you can do, I can do better*</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/26/Outsmarting-myself.html" rel="alternate" type="text/html" title="Anything you can do, I can do better*" /><published>2018-02-26T18:09:12-05:00</published><updated>2018-02-26T18:09:12-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/26/Outsmarting-myself</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/26/Outsmarting-myself.html">&lt;p&gt;Working is hard when you just want to go home and continue doing the fun things that being at work prevents you from doing, but also funds. Halp. Adulting problems.&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;First of all: How are MOFSETS so small? I saw them in the package but I didn’t realize the itty bitty thing that I received was just a container holding two much smaller ittier bittier things that I literally need to hold with tweezers to solder. Egads. I think I did it just fine. No problemo.&lt;/p&gt;
+
+&lt;p&gt;So I was pretty confident that I could finish the rest of the soldering, and then this happened:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wait, where did the rest of the build guide go?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;sigh&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So the build guide is not complete, which is fine, I’m a smart cookie, or so I thought. When I reach the end of the &lt;a href=&quot;https://docs.keeb.io/iris-build-guide.html&quot;&gt;available build guide&lt;/a&gt; and there’s just a few bullets left, like “Solder Pro Micro header pins”, I use my master skills of google-fu to figure this out. I found a &lt;a href=&quot;https://www.youtube.com/watch?v=37mW1i_oEpA&quot;&gt;great video on Youtube&lt;/a&gt; with instructions/tips for soldering the pins and was super proud of my soldering job….&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;… Until I realized that there was no conceivable way to get the switches soldered to the board and the Pro Micro if you solder the pins to the Pro Micro first. I missed the memo (spoiler alert, it wasn’t there) that you were meant to solder the pins to the PCB first. In Keeb.io’s defence, they do have an imgur album of the full build, it’s not explicitly detailed but it will get you through the process with very little trouble.&lt;/p&gt;
+
+&lt;p&gt;Suffice it to say, I did not make progress, I spent the rest of the night desoldering and even had to resort to asking for help to get it done.&lt;/p&gt;
+
+&lt;p&gt;True story: The Pro Micro looks like it’s been chewed by a dog. Oops.&lt;/p&gt;</content><author><name></name></author><summary type="html">Working is hard when you just want to go home and continue doing the fun things that being at work prevents you from doing, but also funds. Halp. Adulting problems.</summary></entry><entry><title type="html">I can do that too!</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/25/I-can-do-things-too.html" rel="alternate" type="text/html" title="I can do that too!" /><published>2018-02-25T21:59:39-05:00</published><updated>2018-02-25T21:59:39-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/25/I-can-do-things-too</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/02/25/I-can-do-things-too.html">&lt;p&gt;Wooooo boy!! I’ve been anxiously waiting for all of the things and stalking my tracking information, and now they’re here! Well, all but the cables. NBD. I can make do. So, after a busy birthday weekend (not mine) it’s time to get this party started!&lt;/p&gt;
+
+&lt;p&gt;I remembered to snap a few pictures of all the bits, and once I get a better handle on Liquid/Jekyll, I’ll fix these posts up.&lt;/p&gt;
+
+&lt;p&gt;The build is pretty straight forward from &lt;a href=&quot;https://docs.keeb.io/iris-build-guide.html&quot;&gt;Keeb.io&lt;/a&gt; however, I feel the need to point out that I’ve never actually built anything electronic in my life, or used a soldering iron. In my defence, I was in a metalsmithing class for a bit and did learn to solder fine jewellery with an acetylene torch, so I have some relevant experience working with molten metal and being precise.&lt;/p&gt;
+
+&lt;p&gt;Here we go:&lt;/p&gt;
+
+&lt;p&gt;Step 1, solder the diodes… so many diodes.&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/nb3rO&quot;&gt;&lt;a href=&quot;//imgur.com/a/nb3rO&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;And that’s enough for one night.&lt;/p&gt;</content><author><name></name></author><summary type="html">Wooooo boy!! I’ve been anxiously waiting for all of the things and stalking my tracking information, and now they’re here! Well, all but the cables. NBD. I can make do. So, after a busy birthday weekend (not mine) it’s time to get this party started!</summary></entry><entry><title type="html">Running with Scissors</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/26/Running-with-scissors.html" rel="alternate" type="text/html" title="Running with Scissors" /><published>2018-01-26T02:55:59-05:00</published><updated>2018-01-26T02:55:59-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/26/Running-with-scissors</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/26/Running-with-scissors.html">&lt;p&gt;Being an adult (or a reasonable facsimile of one) and having hobbies is pretty fun because you can kindasorta do what you want. There’s not really someone telling you that you can’t have the thing that you want, your imagination is the limit, and your wallet…This is my life now:&lt;/p&gt;
+
+&lt;p&gt;“Hey cool, you’re going to build your own keyboard? I bet you’ll save a lot of money.”
+ &lt;strong&gt;cue laugh track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, the first part of building your own keyboard (after research) is easy, but it’s not for the faint of heart, as it involves throwing money at ridiculous things that you don’t actually need, but you totally &lt;em&gt;need&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here’s most of the sites I used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aliexpress.com&quot;&gt;AliExpress&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;I decided to go with Cherry Switches, I used a mix of mostly Reds and some Browns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hidden-lab.com&quot;&gt;Hidden Lab&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Hidden Lab has some wicked cool keysets, and they also have these nifty thermochromatic keycaps which I wanted for my WASD keys.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;htt://keeb.io&quot;&gt;Keeb.io&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Iris PCB’s, Case Plates, Pro Micros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wasdkeyboards.com&quot;&gt;WASD&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Custom Printed Keycaps&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pexonpcs.co.uk&quot;&gt;Pexon&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Custom TRRS and micro USB cables&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hotpopfactory.com&quot;&gt;Hot Pop Factory&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This is a local company that I asked to cut acryllic for the case since I didn’t want it 3D Printed..&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Without a doubt the next part is going to be the hardest… waiting for all of the things you ordered to arrive.&lt;/p&gt;</content><author><name></name></author><summary type="html">Being an adult (or a reasonable facsimile of one) and having hobbies is pretty fun because you can kindasorta do what you want. There’s not really someone telling you that you can’t have the thing that you want, your imagination is the limit, and your wallet…This is my life now:</summary></entry><entry><title type="html">So, tell me what you want, what you really really want!</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/25/Tell-me-what-you-want.html" rel="alternate" type="text/html" title="So, tell me what you want, what you really really want!" /><published>2018-01-25T18:54:19-05:00</published><updated>2018-01-25T18:54:19-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/25/Tell-me-what-you-want</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/25/Tell-me-what-you-want.html">&lt;p&gt;Did someone say Rabbit Hole? Yeah. Me.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot of information. A lot, a lot.&lt;/p&gt;
+
+&lt;p&gt;I have a vision in my head of a keyboard in the flavour of/inspired by Scootaloo. &lt;em&gt;What’s a Scootaloo?&lt;/em&gt; If you know what I’m talking about without me telling you, let’s be friends. Deal? Deal.&lt;/p&gt;
+
+&lt;p&gt;Before I can make a themed keyboard of any kind, I need to know which keyboard I want to make, the sky’s the limit here.&lt;/p&gt;
+
+&lt;p&gt;My top choices are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard&quot;&gt;Iris&lt;/a&gt; - My top choice but it’s constantly selling out.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ergodox-ez.com/&quot;&gt;ErgoDox&lt;/a&gt; - Since my thumbs are a large part of my problem, I’m worried it’s too big.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mykeyboard.eu/catalogue/category/group-buys/zen-keyboard_41/&quot;&gt;Zen&lt;/a&gt; - I like the low profile of this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve been scouring reddit/imgur/everywhere for reviews and pics and I’m convinced that the Iris is my top choice but it seems that a lot of the options/parts are constantly sold out on their site.&lt;/p&gt;
+
+&lt;p&gt;I’m pretty sure there’s something superawesome lurking in a corner of the internet that I have yet to discover. But that can always be for Keyboard2.0.&lt;/p&gt;</content><author><name></name></author><summary type="html">Did someone say Rabbit Hole? Yeah. Me.</summary></entry><entry><title type="html">I Want Keyboards!</title><link href="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/23/I-want-keyboards.html" rel="alternate" type="text/html" title="I Want Keyboards!" /><published>2018-01-23T09:24:24-05:00</published><updated>2018-01-23T09:24:24-05:00</updated><id>http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/23/I-want-keyboards</id><content type="html" xml:base="http://localhost:4000/jekyll/update,/iris/keyboard,/mechanical/keyboard/2018/01/23/I-want-keyboards.html">&lt;p&gt;I’ve been using a 60% keyboard for some time after I realized my wrists were more comfortable when I didn’t have to leap over the (rarely used) number pad to reach the mouse throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Being a software tester, and somewhat of a computer junkie, I do spend a great deal of time on a computer. I had an ergonomic assessment at work recently, and the only further modification they could suggest to me was a split keyboard which sounds like fun… but most of the boards I came across were massive and not truly “split” where you could customize the angle, they just came with a gap of sorts. See: Microsoft Sculpt. Gross.&lt;/p&gt;
+
+&lt;p&gt;There were a few nice-ish ones out there, See: Kinesis Freestyle, but they were not cheap and it was at this point I figured, if I’m going to spend money on a split keyboard, I’m going to get one that I love.&lt;/p&gt;
+
+&lt;p&gt;Lucky for me, I work in a tech start-up with a mixing pot of people from different backgrounds and interests. I can be in a slack channel for Cat Lovers, Mechanical Keyboards, Video Games, Craft Nights, or Pickling. It’s pretty great! So into #keyboards I went and, well… let’s just say it was kind of like jumping down a rabbit hole.&lt;/p&gt;
+
+&lt;p&gt;Speaking to the people in our mechanical keyboards community, #keyboards, it became obvious that what I wanted does not exactly exist, so it’s time to get my learninng on.&lt;/p&gt;
+
+&lt;p&gt;Here we go wheeeeeeeeeeee!&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve been using a 60% keyboard for some time after I realized my wrists were more comfortable when I didn’t have to leap over the (rarely used) number pad to reach the mouse throughout the day.</summary></entry></feed>

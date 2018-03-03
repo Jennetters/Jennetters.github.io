@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about jekyll update)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/categories/jekyll-update.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Sat, 03 Mar 2018 04:23:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>From 77 to 30 words per minute... hold on to your butts.</title><link>https://jennetters.github.io/posts/2018-03-02-from-77-to-30-wpm/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;I have done the thing! Today (right now, in fact) my new pretty keyboard is fully fuctional!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about jekyll update)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/categories/jekyll-update.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Sat, 03 Mar 2018 15:40:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>From 77 to 30 words per minute... hold on to your butts.</title><link>https://jennetters.github.io/posts/2018-03-02-from-77-to-30-wpm/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;I have done the thing! Today (right now, in fact) my new pretty keyboard is fully fuctional!&lt;/p&gt;
 &lt;blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"&gt;&lt;a href="//imgur.com/a/nb3rO"&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
@@ -65,20 +65,18 @@
  &lt;strong&gt;cue laugh track&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;So, the first part of building your own keyboard (after research) is easy, but it's not for the faint of heart, as it involves throwing money at ridiculous things that you don't actually need, but you totally &lt;em&gt;need&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Here's most of the sites I used:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://aliexpress.com"&gt;AliExpress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;I decided to go with Cherry Switches, I used a mix of mostly Reds and some Browns &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://hidden-lab.com"&gt;Hidden Lab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hidden Lab has some wicked cool keysets, and they also have these nifty thermochromatic keycaps which I wanted for my WASD keys. &lt;/li&gt;
-&lt;li&gt;&lt;a href="htt://keeb.io"&gt;Keeb.io&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Iris PCB's, Case Plates, Pro Micros&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wasdkeyboards.com"&gt;WASD&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Custom Printed Keycaps&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.pexonpcs.co.uk"&gt;Pexon&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Custom TRRS and micro USB cables &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.hotpopfactory.com"&gt;Hot Pop Factory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;This is a local company that I asked to cut acryllic for the case since I didn't want it 3D Printed..&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://aliexpress.com"&gt;AliExpress&lt;/a&gt;&lt;br&gt;
+ - I decided to go with Cherry Switches, I used a mix of mostly Reds and some Browns&lt;br&gt;
+&lt;a href="http://hidden-lab.com"&gt;Hidden Lab&lt;/a&gt;&lt;br&gt;
+ - Hidden Lab has some wicked cool keysets, and they also have these nifty thermochromatic keycaps which I wanted for my WASD keys.&lt;br&gt;
+&lt;a href="htt://keeb.io"&gt;Keeb.io&lt;/a&gt;&lt;br&gt;
+ - Iris PCB's, Case Plates, Pro Micros&lt;br&gt;
+&lt;a href="http://wasdkeyboards.com"&gt;WASD&lt;/a&gt;&lt;br&gt;
+ - Custom Printed Keycaps&lt;br&gt;
+&lt;a href="http://www.pexonpcs.co.uk"&gt;Pexon&lt;/a&gt;&lt;br&gt;
+ - Custom TRRS and micro USB cables&lt;br&gt;
+&lt;a href="http://www.hotpopfactory.com"&gt;Hot Pop Factory&lt;/a&gt;&lt;br&gt;
+ - This is a local company that I asked to cut acryllic for the case since I didn't want it 3D Printed.  &lt;/p&gt;
 &lt;p&gt;Without a doubt the next part is going to be the hardest... waiting for all of the things you ordered to arrive.&lt;/p&gt;&lt;/div&gt;</description><category>iris keyboard</category><category>jekyll update</category><category>mechanical keyboard</category><guid>https://jennetters.github.io/posts/2018-01-26-running-with-scissors/</guid><pubDate>Fri, 26 Jan 2018 07:55:59 GMT</pubDate></item><item><title>So, tell me what you want, what you really really want!</title><link>https://jennetters.github.io/posts/2018-01-25-tell-me-what-you-want/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;Did someone say Rabbit Hole? Yeah. Me.&lt;/p&gt;
 &lt;p&gt;There's a lot of information. A lot, a lot.&lt;/p&gt;
 &lt;p&gt;I have a vision in my head of a keyboard in the flavour of/inspired by Scootaloo. &lt;em&gt;What's a Scootaloo?&lt;/em&gt; If you know what I'm talking about without me telling you, let's be friends. Deal? Deal.&lt;/p&gt;

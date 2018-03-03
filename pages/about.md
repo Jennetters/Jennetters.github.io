@@ -9,9 +9,11 @@ permalink: /about/
 
 <p>I'm Jennette. Some people call me j.net.</p>
 
-<p>When I'm not reading, which is bordering on obsessive, see <a href="#exhibitA">Exhibit A</a>, I like to tinker with various things. Most commonly I spend time crocheting like the rockin' granny I aspire to be, <a href="http://meandmyhook.etsy.com" target=_new>Exhibit B</a>.  Lately I've been diving face-first into the world of mechanical keyboards. The actual act of building my first keyboard was much for fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.</p>
+<p>When I'm not obsessively reading, see <a href="#exhibitA">Exhibit A</a>, I like to tinker with various things. Generally, I spend free time crocheting like the rockin' granny I aspire to be, <a href="http://meandmyhook.etsy.com" target=_new>Exhibit B</a>.  Lately I've been diving face-first into the world of mechanical keyboards. Building my first keyboard was much for fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.</p>
 
 <p>This is that somehwere, let's call it: <a href="https://jennetters.github.io">Exhibit C</a>.</p>
+
+<p>So that's me, in a nutshell: Bibliophile, maker, software testing monkey, maker of banana hammocks.</p> 
 
 <p><a name="exhibitA">Exhibit A</a>
 <div id="gr_challenge_7501" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
@@ -41,4 +43,4 @@ permalink: /about/
 	<script src="https://www.goodreads.com/user_challenges/widget/23672932-jennette-reid?challenge_id=7501&v=2"></script>
 </div></p>
 </td>
-<td><img src="/images/jdotnet.png"></td></tr></table>
+<td><img src="/images/jdotnet.jpg"></td></tr></table>

@@ -942,7 +942,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = """<p>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}</p> <p><a href="https://jennetters.github.io" target=_new><img src="/images/github.png"></a>   <a href="https://www.instagram.com/jennettereid/"><img src="/images/instagram.png"></a>   <a href="http://www.linkedin.com/in/jennette-reid"><img src="/images/linkedin.png"></a>   <a href="https://www.facebook.com/jennettereid"><img src="/images/facebook.png"></a>   <a href="https://twitter.com/jennetters"><img src="/images/twitter.png"></a>   <a href="mailto:jennettereid@gmail.com"><img src="/images/email.png"></a>   <a href="https://jennettereid.imgur.com/"><img src="/images/imgur.png"></p>"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1114,7 +1114,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # long time). Insert anything you want here, or even make it empty (which is
 # the default right now)
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
+#SOCIAL_BUTTONS_CODE = """<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a9a0b9e7ad29ec3"></script>"""
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
 # <a class="addthis_button_more">Share</a>
@@ -1125,6 +1125,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # </ul>
 # </div>
 # <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+
 # <!-- End of social buttons -->
 # """
 
@@ -1394,7 +1395,7 @@ GLOBAL_CONTEXT = {
         },
         "top_nav_header": False,
         "more_button_header": [
-            ("/pages/handbook.html", "Handbook", "Handbook"),
+            ("https://getnikola.com/handbook.html", "Handbook", "Handbook"),
         ],
         "image_plugin": "colorbox",
     }

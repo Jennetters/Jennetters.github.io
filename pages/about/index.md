@@ -5,15 +5,15 @@ permalink: /about/
 ---
 
 <table>
-<tr><td>Hi.
+<tr><td><p>Hi.</p>
 
-I'm Jennette. Some people call me j.net.
+<p>I'm Jennette. Some people call me j.net.</p>
 
-When I'm not reading, which is bordering on obsessive, see [Exhibit A](#exhibit-a), I like to tinker with various things. Most commonly I spend time crocheting like the rockin' granny I aspire to be, [Exhibit B](http://meandmyhook.etsy.com).  but lately I've been diving face-first into the world of mechanical keyboards. The actual act of building my first keyboard was much for fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.
+<p>When I'm not reading, which is bordering on obsessive, see <a href="#exhibitA">Exhibit A</a>, I like to tinker with various things. Most commonly I spend time crocheting like the rockin' granny I aspire to be, <a href="http://meandmyhook.etsy.com" target=_new>Exhibit B</a>.  Lately I've been diving face-first into the world of mechanical keyboards. The actual act of building my first keyboard was much for fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.</p>
 
-This is that somehwere, let's call it: [Exhibit C](http://jennetters.github.io).
+<p>This is that somehwere, let's call it: <a href="https://jennetters.github.io">Exhibit C</a>.</p>
 
-#Exhibit A
+<p><a name="exhibitA">Exhibit A</a>
 <div id="gr_challenge_7501" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
   <div id="gr_challenge_progress_body_7501" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
@@ -39,6 +39,6 @@ This is that somehwere, let's call it: [Exhibit C](http://jennetters.github.io).
         </div>
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/23672932-jennette-reid?challenge_id=7501&v=2"></script>
-</div>
+</div></p>
 </td>
-<td><img src="jdotnet.gif"></td></tr></table>
+<td><img src="/images/jdotnet.png"></td></tr></table>

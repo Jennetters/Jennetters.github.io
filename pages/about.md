@@ -41,4 +41,4 @@ This is that somehwere, let's call it: [Exhibit C](http://jennetters.github.io).
 	<script src="https://www.goodreads.com/user_challenges/widget/23672932-jennette-reid?challenge_id=7501&v=2"></script>
 </div>
 </td>
-<td><img src="jdotnet.gif"></td></tr></table>
+<td><img src="/images/jdotnet.gif"></td></tr></table>

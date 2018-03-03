@@ -1395,7 +1395,7 @@ GLOBAL_CONTEXT = {
         },
         "top_nav_header": False,
         "more_button_header": [
-            ("https://getnikola.com/handbook.html", "Handbook", "Handbook"),
+#            ("https://getnikola.com/handbook.html", "Handbook", "Handbook"),
         ],
         "image_plugin": "colorbox",
     }

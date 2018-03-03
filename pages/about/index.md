@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi.
+<table>
+<tr><td>Hi.
 
 I'm Jennette. Some people call me j.net.
 
@@ -39,3 +40,5 @@ This is that somehwere, let's call it: [Exhibit C](http://jennetters.github.io).
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/23672932-jennette-reid?challenge_id=7501&v=2"></script>
 </div>
+</td>
+<td><img src="jdotnet.gif"></td></tr></table>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Insert sports analogy for being nearly finished a thing."
 date:   2018-02-27 23:33:39 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+categories: jekyll update, iris keyboard, mechanical keyboard
 ---
 
 After taking care of lastnights kerfuffle with the Pro Micro, I am obsessively pouring over each image in the [Iris Build Log](https://imgur.com/a/iQH2W) to make sure I don't have additional troubles. 
@@ -15,4 +15,4 @@ The trouble now is that flashing it with a Windows computer is proving to be a r
 
 More pictures of my pretty:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/7aKHm"><a href="//imgur.com/a/7aKHm">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

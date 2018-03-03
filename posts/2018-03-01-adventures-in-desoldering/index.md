@@ -2,14 +2,14 @@
 layout: post
 title:  "Adventures in desoldering"
 date:   2018-03-01 23:18:28 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+categories: jekyll update, iris keyboard, mechanical keyboard
 ---
 
 Finally had a chance to open up the keyboard and see what the problem was with the dead keys. As it turns out, the issue with the U and J keys was that I didn't solder the switches. And here I thought I was being so careful, must have been over excited. So I solderd those and plugged the board in and TADAA!!! Right half is fully functional.
 
 As for the left half, which had the dead row. Well, this is my life now.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vdXBm"><a href="//imgur.com/a/vdXBm">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 I checked all of the diodes and paths, but I could see one pin on the controller didn't appear to be soldered, so I tried to solder it and it just. wouldn't. flow. I'm confident that I damged the Pro Micro when I desoldered it on Monday and the connection for that pin is just toast. I tried several times and couldn't get it soldered to make the connection.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Who needs A/D/S/F/G/U/J Anyway?"
 date:   2018-02-28 09:13:28 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+categories: jekyll update, iris keyboard, mechanical keyboard
 ---
 
 Whelp. Clearly Windows was the culprit. I had a coworker help me flash the Pro Micros and he was able to do it with no troubles on the first try. Neat. Thanks for nothing WANDOWS.
@@ -20,4 +20,4 @@ C'est la vie.
 
 Still, see how pretty?
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/inxkr"><a href="//imgur.com/a/inxkr">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

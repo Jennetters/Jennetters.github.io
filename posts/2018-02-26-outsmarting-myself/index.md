@@ -2,12 +2,14 @@
 layout: post
 title:  "Anything you can do, I can do better*"
 date:   2018-02-26 18:09:12 -0500
-categories: jekyll update, iris keyboard, mechanical keyboard
+tags: jekyll update, iris keyboard, mechanical keyboard, pictures
 ---
+
+(*That's not actually true.)
 
 Working is hard when you just want to go home and continue doing the fun things that being at work prevents you from doing, but also funds. Halp. Adulting problems.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BkNQ6"><a href="//imgur.com/a/BkNQ6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 First of all: How are MOFSETS so small? I saw them in the package but I didn't realize the itty bitty thing that I received was just a container holding two much smaller ittier bittier things that I literally need to hold with tweezers to solder. Egads. I think I did it just fine. No problemo.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "I can do that too!"
 date:   2018-02-25 21:59:39 -0500
-categories: jekyll update, iris keyboard, mechanical keyboard
+tags: jekyll update, iris keyboard, mechanical keyboard, pictures
 ---
 
 Wooooo boy!! I've been anxiously waiting for all of the things and stalking my tracking information, and now they're here! Well, all but the cables. NBD. I can make do. So, after a busy birthday weekend (not mine) it's time to get this party started!
@@ -15,6 +15,6 @@ Here we go:
 
 Step 1, solder the diodes... so many diodes.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nb3rO"><a href="//imgur.com/a/nb3rO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/63o95"><a href="//imgur.com/a/63o95">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 And that's enough for one night.

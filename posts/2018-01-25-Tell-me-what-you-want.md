@@ -2,7 +2,7 @@
 layout: post
 title:  "So, tell me what you want, what you really really want!"
 date:   2018-01-25 18:54:19 -0500
-categories: jekyll update, iris keyboard, mechanical keyboard
+tags: jekyll update, iris keyboard, mechanical keyboard
 ---
 
 Did someone say Rabbit Hole? Yeah. Me.

@@ -13,7 +13,7 @@ permalink: /about/
 
 <p>This is that somehwere, let's call it: <a href="https://jennetters.github.io">Exhibit C</a>.</p>
 
-<p>So that's me, in a nutshell: Bibliophile, maker, software testing monkey, maker of banana hammocks.</p> 
+<p>So that's me, in a nutshell: Bibliophile, software testing monkey, maker of banana hammocks.</p> 
 
 <p><a name="exhibitA">Exhibit A</a>
 <div id="gr_challenge_7501" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">

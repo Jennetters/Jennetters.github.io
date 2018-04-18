@@ -19,7 +19,7 @@ Super disgusting, right?!
 
 In an ideal world, I could desolder the Pro Micro and leave the pins on the board, then just put a new one in its place. This was harder than it seemed, even though it looked like I had a clean pin I still couldn't get the Pro Micro off. So, I did what any sane person would do, I grabed some pliers and wire cutters and obliterated the pro micro, leaving the pins intact. Then I desoldered the pins and cleaned everything with a little bit of rubbing alcohol. Good as new... if new was chewed up by a dog and spit out.  
 
-Attaching the new Pro Micro onto the eisting header pins which were a little less than straight was a bit of a challenge, I used some needle nosed pliers to feed them through one at a time but I managed to get it and solder it down.
+Attaching the new Pro Micro onto the existing header pins which were a little less than straight was a bit of a challenge, I used some needle nosed pliers to feed them through one at a time but I managed to get it and solder it down.
 
 Now I'm back to having issues flashing the board because, Wandows. 
 

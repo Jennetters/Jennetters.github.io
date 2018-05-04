@@ -2,7 +2,7 @@
 layout: post
 title:  "I Want Keyboards!"
 date:   2018-01-23 09:24:24 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard
 ---
 
 I've been using a 60% keyboard for some time after I realized my wrists were more comfortable when I didn't have to leap over the (rarely used) number pad to reach the mouse throughout the day.

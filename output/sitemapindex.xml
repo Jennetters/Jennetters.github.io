@@ -6,27 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://jennetters.github.io/categories/dactyl-keyboard.xml</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/fourier.xml</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jennetters.github.io/categories/iris-keyboard.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/jekyll-update.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/mechanical-keyboard.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/pictures.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/split-mechanical-keyboard.xml</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/rss.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/sitemap.xml</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>

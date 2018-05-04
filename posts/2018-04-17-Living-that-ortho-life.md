@@ -2,7 +2,7 @@
 layout: post
 title:  "Living that ortho life"
 date:   2018-04-16 03:35:12 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: iris keyboard, split mechanical keyboard, mechanical keyboard, pictures
 ---
 
 Whelp. It's been about a month and a half since I finished my build of the Iris which is my main keyboard at work. Today I think it's safe to say I've officially adopted (adapted to?) the ortho life:

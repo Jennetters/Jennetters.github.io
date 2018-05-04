@@ -2,7 +2,7 @@
 layout: post
 title:  "Insert sports analogy for being nearly finished a thing."
 date:   2018-02-27 23:33:39 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 After taking care of lastnights kerfuffle with the Pro Micro, I am obsessively pouring over each image in the [Iris Build Log](https://imgur.com/a/iQH2W) to make sure I don't have additional troubles. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Who needs A/D/S/F/G/U/J Anyway?"
 date:   2018-02-28 09:13:28 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 Whelp. Clearly Windows was the culprit. I had a coworker help me flash the Pro Micros and he was able to do it with no troubles on the first try. Neat. Thanks for nothing WANDOWS.

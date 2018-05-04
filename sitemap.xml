@@ -15,11 +15,19 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/archive.html</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/</loc>
-  <lastmod>2018-04-17T19:17:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/categories/dactyl-keyboard/</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/categories/fourier/</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/iris-keyboard/</loc>
@@ -38,8 +46,12 @@
   <lastmod>2018-04-17T19:17:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jennetters.github.io/categories/split-mechanical-keyboard/</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jennetters.github.io/index-1.html</loc>
-  <lastmod>2018-04-18T02:18:00Z</lastmod>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/pages/about/</loc>
@@ -88,5 +100,9 @@
  <url>
   <loc>https://jennetters.github.io/posts/2018-04-17-living-that-ortho-life/</loc>
   <lastmod>2018-04-18T02:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/posts/2018-05-04-may-the-fourth-live-long/</loc>
+  <lastmod>2018-05-04T20:46:00Z</lastmod>
  </url>
 </urlset>

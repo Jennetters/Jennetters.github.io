@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventures in desoldering"
 date:   2018-03-01 23:18:28 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 Finally had a chance to open up the keyboard and see what the problem was with the dead keys. As it turns out, the issue with the U and J keys was that I didn't solder the switches. And here I thought I was being so careful, must have been over excited. So I solderd those and plugged the board in and TADAA!!! Right half is fully functional.

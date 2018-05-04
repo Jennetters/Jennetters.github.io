@@ -2,7 +2,7 @@
 layout: post
 title:  "Running with Scissors"
 date:   2018-01-26 2:55:59 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard
 ---
 
 Being an adult (or a reasonable facsimile of one) and having hobbies is pretty fun because you can kindasorta do what you want. There's not really someone telling you that you can't have the thing that you want, your imagination is the limit, and your wallet...This is my life now:

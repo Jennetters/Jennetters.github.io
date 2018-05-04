@@ -2,7 +2,7 @@
 layout: post
 title:  "I can do that too!"
 date:   2018-02-25 21:59:39 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 Wooooo boy!! I've been anxiously waiting for all of the things and stalking my tracking information, and now they're here! Well, all but the cables. NBD. I can make do. So, after a busy birthday weekend (not mine) it's time to get this party started!

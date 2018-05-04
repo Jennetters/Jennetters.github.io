@@ -2,7 +2,7 @@
 layout: post
 title:  "The wait is over!"
 date:   2018-04-05 11:15:15 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 I knew from the very beginning that I would settle for nothing less than the best cables and, of course, I wanted them the way I wanted them. 

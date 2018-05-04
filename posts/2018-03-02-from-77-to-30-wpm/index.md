@@ -2,7 +2,7 @@
 layout: post
 title:  "From 77 to 30 words per minute... hold on to your butts."
 date:   2018-03-02 08:55:44 -0500
-tags: jekyll update, iris keyboard, mechanical keyboard, pictures
+tags: split mechanical keyboard, iris keyboard, mechanical keyboard, pictures
 ---
 
 I have done the thing! Today (right now, in fact) my new pretty keyboard is fully fuctional!

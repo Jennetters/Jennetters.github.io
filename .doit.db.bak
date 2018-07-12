@@ -228,3 +228,6 @@
 'render_posts:cache\\posts\\2018-05-29-thats-a-wrap.html', (555520, 395)
 'render_pages:output\\posts\\2018-05-29-thats-a-wrap\\index.html', (578560, 4995)
 'render_sources:output\\posts\\2018-05-29-thats-a-wrap\\index.md', (587776, 268)
+'render_pages:output\\posts\\2019-07-12-no-this-is-a-wrap\\index.html', (600064, 5026)
+'render_posts:cache\\posts\\2019-07-12-no-this-is-a-wrap.html', (605184, 415)
+'render_sources:output\\posts\\2019-07-12-no-this-is-a-wrap\\index.md', (605696, 283)

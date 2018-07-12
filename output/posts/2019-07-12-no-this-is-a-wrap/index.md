@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No, this is a wrap!"
-date:   2018-7-12 09:22:22 -0500
+date:   2018-07-12 09:22:22 -0500
 tags: Staggered, fourier, split mechanical keyboard, mechanical keyboard
 ---
 

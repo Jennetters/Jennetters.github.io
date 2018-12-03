@@ -1351,8 +1351,8 @@ FILE_METADATA_UNSLUGIFY_TITLES = True
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-        'TWITTER_URL': 'https://twitter.com/getnikola',
-        'GITHUB_URL': 'https://github.com/getnikola',
+        'TWITTER_URL': 'https://twitter.com/jennetters',
+        'GITHUB_URL': 'https://github.com/jennetters',
         'BANNER_URL': '/assets/img/iris.jpg',
         "header_color": "#5670d4",
         "drawer_title": "",

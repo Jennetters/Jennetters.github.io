@@ -9,7 +9,7 @@ permalink: /about/
 
 <p>I'm Jennette. Some people call me j.net.</p>
 
-<p>When I'm not obsessively reading, see <a href="#exhibitA">Exhibit A</a>, I like to tinker with various things. Generally, I spend free time crocheting like the rockin' granny I aspire to be, <a href="http://meandmyhook.etsy.com" target=_new>Exhibit B</a>.  Lately I've been diving face-first into the world of mechanical keyboards. Building my first keyboard was much for fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.</p>
+<p>When I'm not obsessively reading, see <a href="#exhibitA">Exhibit A</a>, I like to tinker with various things. Generally, if I'm not reading, crafting, or baking, I spend the rest of my free time crocheting like the rockin' granny I aspire to be, <a href="http://meandmyhook.etsy.com" target=_new>Exhibit B</a>.  Lately I've been diving face-first into the world of mechanical keyboards. Building my first keyboard was so much more fun than I thought would be, and I wanted somewhere to share a bit of my adventures and of course, pictures.</p>
 
 <p>This is that somehwere, let's call it: <a href="https://jennetters.github.io">Exhibit C</a>.</p>
 

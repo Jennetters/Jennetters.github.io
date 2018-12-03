@@ -142,11 +142,13 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "mdl"
+THEME = "canterville"
+LOGO_URL = 'https://getnikola.com/assets/img/logo.svg'
+
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#FF4081'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -336,18 +338,6 @@ POSTS_SECTIONS = True
 # (translatable)
 # SECTION_PATH = ""
 
-# Each post and section page will have an associated color that can be used
-# to style them with a recognizable color detail across your site. A color
-# is assigned to  each section based on shifting the hue of your THEME_COLOR
-# at least 7.5 % while leaving the lightness and saturation untouched in the
-# HUSL colorspace. You can overwrite colors by assigning them colors in HEX.
-# POSTS_SECTION_COLORS = {
-#     DEFAULT_LANG: {
-#         'posts':  '#49b11bf',
-#         'reviews':   '#ffe200',
-#     },
-# }
-
 # Associate a description with a section. For use in meta description on
 # section index pages or elsewhere in themes.
 # POSTS_SECTION_DESCRIPTIONS = {
@@ -363,7 +353,7 @@ POSTS_SECTIONS = True
 # Names are determined from the output directory name automatically or the
 # metadata label. Unless overwritten below, names will use title cased and
 # hyphens replaced by spaces.
-# POSTS_SECTION_NAME = {
+# CATEGORY_DESTPATH_NAMES = {
 #    DEFAULT_LANG: {
 #        'posts': 'Blog Posts',
 #        'uncategorized': 'Odds and Ends',
@@ -417,7 +407,7 @@ POSTS_SECTIONS = True
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
-# TAG_PAGES_DESCRIPTIONS = {
+# TAG_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
@@ -425,7 +415,7 @@ POSTS_SECTIONS = True
 # }
 
 # Set special titles for tag pages. The default is "Posts about TAG".
-# TAG_PAGES_TITLES = {
+# TAG_TITLES = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-posts about blogging",
 #        "open source": "Posts about open source software"
@@ -474,10 +464,14 @@ HIDDEN_TAGS = ['mathjax']
 # using a forward slash ('/') to separate paths. Use a backslash ('\') to escape
 # a forward slash or a backslash (i.e. '\//\\' is a path specifying the
 # subcategory called '\' of the top-level category called '/').
-CATEGORY_ALLOW_HIERARCHIES = False
+CATEGORY_ALLOW_HIERARCHIES = True
 # If CATEGORY_OUTPUT_FLAT_HIERARCHY is set to True, the output written to output
 # contains only the name of the leaf category and not the whole path.
 CATEGORY_OUTPUT_FLAT_HIERARCHY = False
+CATEGORY_DESTPATH_AS_DEFAULT = True
+CATEGORY_DESTPATH_TRIM_PREFIX = False
+CATEGORY_DESTPATH_FIRST_DIRECTORY_ONLY = True
+CATEGORY_PAGES_FOLLOW_DESTPATH = True
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
@@ -486,7 +480,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
-# CATEGORY_PAGES_DESCRIPTIONS = {
+# CATEGORY_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
@@ -494,7 +488,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # }
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
-# CATEGORY_PAGES_TITLES = {
+# CATEGORY_TITLES = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-posts about blogging",
 #        "open source": "Posts about open source software"
@@ -1272,7 +1266,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
@@ -1312,8 +1306,9 @@ UNSLUGIFY_TITLES = True
 # Special settings to disable only parts of the indexes plugin (to allow RSS
 # but no blog indexes, or to allow blog indexes and Atom but no site-wide RSS).
 # Use with care.
-# DISABLE_INDEXES_PLUGIN_INDEX_AND_ATOM_FEED = False
-# DISABLE_INDEXES_PLUGIN_RSS_FEED = False
+# DISABLE_INDEXES = False
+# DISABLE_MAIN_ATOM_FEED = False
+# DISABLE_MAIN_RSS_FEED = False
 
 # Add the absolute paths to directories containing plugins to use them.
 # For example, the `plugins` directory of your clone of the Nikola plugins
@@ -1342,12 +1337,6 @@ UNSLUGIFY_TITLES = True
 # (defaults to 1.)
 # DEMOTE_HEADERS = 1
 
-# Docutils, by default, will perform a transform in your documents
-# extracting unique titles at the top of your document and turning
-# them into metadata. This surprises a lot of people, and setting
-# this option to True will prevent it.
-# NO_DOCUTILS_TITLE_TRANSFORM = False
-
 # If you don’t like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.
 # USE WITH CARE!  This is also not guaranteed to be perfect, and may
@@ -1362,26 +1351,10 @@ UNSLUGIFY_TITLES = True
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-        "mdl__version": "1.3.0",
-        "mdl__color_scheme": "blue_grey-pink",
-        "mdl__roboto_font": False,
-        "mdl__late_load_css": False,
-        "mdl__cachebusting": "1",
-        "mdl__fixed_header": False,
-        "mdl__fixed_drawer": False,
-        "mdl__no_drawer_button": False,
-        "mdl__no_desktop_drawer_button": False,
-        "mdl__multiple_header": False,
-        "mdl__header_scroll": False,
-        "mdl__header_waterfall": False,
-        "mdl__header_waterfall_hide_top": False,
-        "mdl__header_transparent": False,
-        "mdl__header_seamed": False,
-        "mdl__footer": "",
-        "mdl__navigation_large_screen_only": False,
-        "mdl__drawer_small_screen_only": False,
-        "mdl__custom_css": False,
-        "mdl__custom_js": False,
+        'TWITTER_URL': 'https://twitter.com/getnikola',
+        'GITHUB_URL': 'https://github.com/getnikola',
+        'BANNER_URL': '/assets/img/iris.jpg',
+        "header_color": "#5670d4",
         "drawer_title": "",
         "drawer_logo_url": "",
         "drawer_show_title": "",

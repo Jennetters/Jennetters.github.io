@@ -6,43 +6,67 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://jennetters.github.io/categories/3d-printing.xml</loc>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jennetters.github.io/categories/dactyl-keyboard.xml</loc>
-  <lastmod>2018-05-04T21:06:00Z</lastmod>
+  <lastmod>2018-12-03T02:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/dactyl-manuform.xml</loc>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/dactyl.xml</loc>
+  <lastmod>2018-12-03T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/fourier.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T03:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/iris-keyboard.xml</loc>
-  <lastmod>2018-05-04T20:46:00Z</lastmod>
+  <lastmod>2018-12-03T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/jekyll-update.xml</loc>
-  <lastmod>2018-05-04T20:46:00Z</lastmod>
+  <lastmod>2018-12-03T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/mechanical-keyboard.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/ortholinear.xml</loc>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/pictures.xml</loc>
-  <lastmod>2018-05-04T20:46:00Z</lastmod>
+  <lastmod>2018-12-03T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/split-mechanical-keyboard.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/staggered-keyboard.xml</loc>
+  <lastmod>2018-12-03T03:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/staggered.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T02:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/posts.xml</loc>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/rss.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/sitemap.xml</loc>
-  <lastmod>2018-07-12T14:55:00Z</lastmod>
+  <lastmod>2018-12-03T03:28:00Z</lastmod>
  </sitemap>
 </sitemapindex>

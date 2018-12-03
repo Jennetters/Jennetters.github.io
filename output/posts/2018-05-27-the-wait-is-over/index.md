@@ -2,7 +2,7 @@
 layout: post
 title:  "The Wait is over!"
 date:   2018-5-27 21:50:12 -0500
-tags: Staggered, fourier, split mechanical keyboard, mechanical keyboard
+tags: staggered, fourier, split mechanical keyboard, mechanical keyboard
 ---
 
 It <i><b>is</b></i> possible to build a mechanical keyboard, and a sweet one at that, on the cheap. Relatively speaking, of course.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Breakfast of Champions"
 date:   2018-5-28 08:00:12 -0500
-tags: Staggered, fourier, split mechanical keyboard, mechanical keyboard
+tags: staggered, fourier, split mechanical keyboard, mechanical keyboard
 ---
 
 I'm sure I'm not the only one who can't rest until a project is finished, so I grabbed a coffee and got back to soldering. 

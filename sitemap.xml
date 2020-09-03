@@ -23,11 +23,11 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/archive.html</loc>
-  <lastmod>2020-09-02T23:22:00Z</lastmod>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/</loc>
-  <lastmod>2020-09-02T19:45:00Z</lastmod>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/3d-printing/</loc>
@@ -48,6 +48,10 @@
  <url>
   <loc>https://jennetters.github.io/categories/fourier/</loc>
   <lastmod>2020-09-02T19:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/categories/handwiring/</loc>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/iris-keyboard/</loc>
@@ -99,7 +103,7 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/index-2.html</loc>
-  <lastmod>2020-09-02T23:22:00Z</lastmod>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/pages/about/</loc>
@@ -107,7 +111,7 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/posts/</loc>
-  <lastmod>2020-09-02T23:36:00Z</lastmod>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/posts/2018-01-23-i-want-keyboards/</loc>
@@ -224,5 +228,9 @@
  <url>
   <loc>https://jennetters.github.io/posts/2020-09-02-long-time-no-build/</loc>
   <lastmod>2020-09-02T23:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/posts/2020-09-03-dont-hate-insulate/</loc>
+  <lastmod>2020-09-03T17:37:00Z</lastmod>
  </url>
 </urlset>

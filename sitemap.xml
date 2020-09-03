@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://jennetters.github.io/</loc>
-  <lastmod>2020-09-02T23:43:00Z</lastmod>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/2018/</loc>
@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/archive.html</loc>
-  <lastmod>2020-09-03T17:37:00Z</lastmod>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/categories/</loc>
@@ -107,7 +107,11 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/index-2.html</loc>
-  <lastmod>2020-09-03T17:37:00Z</lastmod>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/index-3.html</loc>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/pages/about/</loc>
@@ -115,7 +119,11 @@
  </url>
  <url>
   <loc>https://jennetters.github.io/posts/</loc>
-  <lastmod>2020-09-03T17:37:00Z</lastmod>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jennetters.github.io/posts/142940/</loc>
+  <lastmod>2020-09-03T18:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://jennetters.github.io/posts/2018-01-23-i-want-keyboards/</loc>

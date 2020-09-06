@@ -1,23 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about dactyl)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/categories/dactyl.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Sun, 06 Sep 2020 19:24:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Show Your Work</title><link>https://jennetters.github.io/posts/2020-09-04-show-your-work/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;With a lack of build guide for this print I used a mixture of my limited knowledge of circuitry, logic, and previous experience to get this guy wired. I always make sure to test connections every step of the way, it's so much easier than fixing problems after the fact.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about dactyl)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/categories/dactyl.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Sun, 06 Sep 2020 19:28:53 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Show Your Work</title><link>https://jennetters.github.io/posts/2020-09-04-show-your-work/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;With a lack of build guide for this print I used a mixture of my limited knowledge of circuitry, logic, and previous experience to get this guy wired. I always make sure to test connections every step of the way, it's so much easier than fixing problems after the fact.&lt;/p&gt;
 &lt;p&gt;Yet, lo and behold! After flashing the pro micro successfully, and then connecting the microprocessors to the keyboard, I was a bit surprised that it wasn't working.&lt;/p&gt;
 &lt;p&gt;Like.&lt;/p&gt;
 &lt;p&gt;At all.&lt;/p&gt;
 &lt;p&gt;This isn't my first rodeo, so I didn't expect anything to be perfect the first go around but it took some tinkering and digging to figure out that the pro-micro pins were slightly different from the pins used in the dactyl files on qmk.&lt;/p&gt;
 &lt;p&gt;This isn't a big problem, you just need to make sure the pins listed in the config.h file correspond to your wiring.&lt;/p&gt;
-&lt;p&gt;Here's some &lt;a href="https://jennetters.github.io/posts/2020-09-04-show-your-work/#id1"&gt;&lt;span class="problematic" id="id2"&gt;`progress pics`__&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here's some progress shots.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/03-dactyl_ez-adding_diodes.jpg" class="thumbnail image-reference" title="Dactyl ez adding diodes"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/03-dactyl_ez-adding_diodes.thumbnail.jpg" alt="Dactyl ez adding diodes"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/05-dactyl_ez-wiring_columns.jpg" class="thumbnail image-reference" title="Dactyl ez wiring columns"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/05-dactyl_ez-wiring_columns.thumbnail.jpg" alt="Dactyl ez wiring columns"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/04-dactyl_ez-diodes_wired.jpg" class="thumbnail image-reference" title="Dactyl ez diodes wired"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/04-dactyl_ez-diodes_wired.thumbnail.jpg" alt="Dactyl ez diodes wired"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/01-dactyl_ez-case_assembly.jpg" class="thumbnail image-reference" title="Dactyl ez case assembly"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/01-dactyl_ez-case_assembly.thumbnail.jpg" alt="Dactyl ez case assembly"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/06-dactyl_ez-microcontroller.jpg" class="thumbnail image-reference" title="Dactyl ez microcontroller"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/06-dactyl_ez-microcontroller.thumbnail.jpg" alt="Dactyl ez microcontroller"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/02-dactyl_ez-switches_installed.jpg" class="thumbnail image-reference" title="Dactyl ez switches installed"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/02-dactyl_ez-switches_installed.thumbnail.jpg" alt="Dactyl ez switches installed"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Here's some resources that helped me out:&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://golem.hu/pic/pro_micro_pinout.jpg"&gt;https://golem.hu/pic/pro_micro_pinout.jpg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://keyboardchecker.com/"&gt;https://keyboardchecker.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://docs.qmk.fm/#/config_options"&gt;https://docs.qmk.fm/#/config_options&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you get stuck, there's a lot of information on the QMK site.&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 26); &lt;em&gt;&lt;a href="https://jennetters.github.io/posts/2020-09-04-show-your-work/#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Anonymous hyperlink mismatch: 1 references but 0 targets.
-See "backrefs" attribute for IDs.&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-04-show-your-work/</guid><pubDate>Fri, 04 Sep 2020 14:45:48 GMT</pubDate></item><item><title>Long time no build</title><link>https://jennetters.github.io/posts/2020-09-02-long-time-no-build/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;From the "not so hot-off-the-press" files comes a build that's been on my to-do list since February. I was asked to have a go at the &lt;a href="https://github.com/ramonimbao/dactyl-ez2print"&gt;Dactyl EZ-to-Print&lt;/a&gt;... turns out it wasn't &lt;i&gt;that&lt;/i&gt; easy to actually print. I had some difficulties with sagging and getting thex openings for the switches to stay crisp but in the end, I made it work.&lt;/p&gt;
+&lt;p&gt;If you get stuck, there's a lot of information on the QMK site.&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-04-show-your-work/</guid><pubDate>Fri, 04 Sep 2020 14:45:48 GMT</pubDate></item><item><title>Long time no build</title><link>https://jennetters.github.io/posts/2020-09-02-long-time-no-build/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;From the "not so hot-off-the-press" files comes a build that's been on my to-do list since February. I was asked to have a go at the &lt;a href="https://github.com/ramonimbao/dactyl-ez2print"&gt;Dactyl EZ-to-Print&lt;/a&gt;... turns out it wasn't &lt;i&gt;that&lt;/i&gt; easy to actually print. I had some difficulties with sagging and getting thex openings for the switches to stay crisp but in the end, I made it work.&lt;/p&gt;
 &lt;div align="center"&gt;&lt;img src="https://jennetters.github.io/images/dactylEZ/Dactyl_is_Art.thumb.jpg" alt="Art!"&gt;&lt;/div&gt;
 
 &lt;p&gt;With all the parts ready to go I started following the assembly on the repo for the case, but it looks you're meant to put the back on before wiring, just to hold it together... soooooo I went rogue and did my own thing.&lt;/p&gt;

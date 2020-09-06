@@ -23,7 +23,7 @@ Here's some progress shots.
 
 .. gallery:: dactyl_ez2print
 
-... and some resources that helped me out:
+And... some resources that helped me out:
 
 https://golem.hu/pic/pro_micro_pinout.jpg
 

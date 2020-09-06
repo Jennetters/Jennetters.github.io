@@ -7,7 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://jennetters.github.io/categories/3d-printing.xml</loc>
-  <lastmod>2020-09-03T17:39:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jennetters.github.io/categories/cherry-mx-brown.xml</loc>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/dactyl-keyboard.xml</loc>
@@ -15,11 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/dactyl-manuform.xml</loc>
-  <lastmod>2020-09-02T22:39:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/dactyl.xml</loc>
-  <lastmod>2020-09-03T17:39:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/fourier.xml</loc>
@@ -43,15 +47,15 @@
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/mechanical-keyboard.xml</loc>
-  <lastmod>2020-09-03T18:29:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/ortholinear.xml</loc>
-  <lastmod>2020-09-03T17:39:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/photos.xml</loc>
-  <lastmod>2020-09-03T17:39:00Z</lastmod>
+  <lastmod>2020-09-06T17:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/pictures.xml</loc>
@@ -59,7 +63,7 @@
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/split-mechanical-keyboard.xml</loc>
-  <lastmod>2020-09-03T17:39:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/categories/staggered-keyboard.xml</loc>
@@ -71,22 +75,26 @@
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/galleries/dactyl_ez2print/rss.xml</loc>
-  <lastmod>2020-09-03T17:21:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/galleries/rss.xml</loc>
   <lastmod>2020-09-02T23:43:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://jennetters.github.io/kplt.xml</loc>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jennetters.github.io/posts.xml</loc>
-  <lastmod>2020-09-03T18:51:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/rss.xml</loc>
-  <lastmod>2020-09-03T18:51:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jennetters.github.io/sitemap.xml</loc>
-  <lastmod>2020-09-03T18:51:00Z</lastmod>
+  <lastmod>2020-09-06T18:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>

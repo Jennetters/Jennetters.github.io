@@ -814,8 +814,8 @@ GITHUB_COMMIT_SOURCE = True
 # but a different naming template can be configured with IMAGE_THUMBNAIL_FORMAT).
 
 IMAGE_FOLDERS = {'images': 'images'}
-# IMAGE_THUMBNAIL_SIZE = 400
-# IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_THUMBNAIL_FORMAT = '{name}.thumb{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates

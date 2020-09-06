@@ -193,6 +193,13 @@ object.align-center {
   margin-right: auto;
   display: block;
 }
+.image.align-center,
+img.align-center,
+object.align-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 table.align-center {
   margin-left: auto;
   margin-right: auto;

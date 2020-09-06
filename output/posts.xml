@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about posts)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/posts.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Thu, 03 Sep 2020 18:51:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>#KLPT - Dont hate, insulate!</title><link>https://jennetters.github.io/posts/2020-09-03-dont-hate-insulate/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;No matter how confident you are in your soldering. Insulate your work to prevent problems down the road.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What? Like it's hard? (Posts about posts)</title><link>https://jennetters.github.io/</link><description></description><atom:link href="https://jennetters.github.io/posts.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:jennette.reid@gmail.com"&gt;J.Net&lt;/a&gt; </copyright><lastBuildDate>Sun, 06 Sep 2020 19:00:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tap tap tap</title><link>https://jennetters.github.io/posts/2020-09-06-tap-tap-tap/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;When you change-up your keyboard layout, or shape, you'll notice your typing accuracy and speed takes a nosedive. Thankfully it bounces back pretty quickly. After using the Dactyl Manuform for so long, I believe I can say without a doubt that it has improved both of these things. The shape of the wells for the switches means my fingers have to move less than ever before with standard keyboards, and not having a physical mouse means my hands can stay in one position for the duration of my work.&lt;/p&gt;
+&lt;p&gt;Check it out.&lt;/p&gt;
+&lt;img alt="/images/wpm_09-06-20.thumb.png" class="align-center" src="https://jennetters.github.io/images/wpm_09-06-20.thumb.png"&gt;
+&lt;p&gt;Ok, so it's not earth-shattering, or record-breaking, but it's not too shabby either and certainly an improvement for me.&lt;/p&gt;&lt;/div&gt;</description><category>cherry mx brown</category><category>dactyl manuform</category><category>mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-06-tap-tap-tap/</guid><pubDate>Sun, 06 Sep 2020 17:50:01 GMT</pubDate></item><item><title>Show Your Work</title><link>https://jennetters.github.io/posts/2020-09-04-show-your-work/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;With a lack of build guide for this print I used a mixture of my limited knowledge of circuitry, logic, and previous experience to get this guy wired. I always make sure to test connections every step of the way, it's so much easier than fixing problems after the fact.&lt;/p&gt;
+&lt;p&gt;Yet, lo and behold! After flashing the pro micro successfully, and then connecting the microprocessors to the keyboard, I was a bit surprised that it wasn't working.&lt;/p&gt;
+&lt;p&gt;Like.&lt;/p&gt;
+&lt;p&gt;At all.&lt;/p&gt;
+&lt;p&gt;This isn't my first rodeo, so I didn't expect anything to be perfect the first go around but it took some tinkering and digging to figure out that the pro-micro pins were slightly different from the pins used in the dactyl files on qmk.&lt;/p&gt;
+&lt;p&gt;This isn't a big problem, at all, you just need to make sure the pins listed in the config.h file correspond to your wiring.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/03-dactyl_ez-adding_diodes.jpg" class="thumbnail image-reference" title="Dactyl ez adding diodes"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/03-dactyl_ez-adding_diodes.thumbnail.jpg" alt="Dactyl ez adding diodes"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/05-dactyl_ez-wiring_columns.jpg" class="thumbnail image-reference" title="Dactyl ez wiring columns"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/05-dactyl_ez-wiring_columns.thumbnail.jpg" alt="Dactyl ez wiring columns"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/04-dactyl_ez-diodes_wired.jpg" class="thumbnail image-reference" title="Dactyl ez diodes wired"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/04-dactyl_ez-diodes_wired.thumbnail.jpg" alt="Dactyl ez diodes wired"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/01-dactyl_ez-case_assembly.jpg" class="thumbnail image-reference" title="Dactyl ez case assembly"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/01-dactyl_ez-case_assembly.thumbnail.jpg" alt="Dactyl ez case assembly"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/06-dactyl_ez-microcontroller.jpg" class="thumbnail image-reference" title="Dactyl ez microcontroller"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/06-dactyl_ez-microcontroller.thumbnail.jpg" alt="Dactyl ez microcontroller"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://jennetters.github.io/galleries%5Cdactyl_ez2print/02-dactyl_ez-switches_installed.jpg" class="thumbnail image-reference" title="Dactyl ez switches installed"&gt;
+            &lt;img src="https://jennetters.github.io/galleries%5Cdactyl_ez2print/02-dactyl_ez-switches_installed.thumbnail.jpg" alt="Dactyl ez switches installed"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Here's some resources that helped me out:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://golem.hu/pic/pro_micro_pinout.jpg"&gt;https://golem.hu/pic/pro_micro_pinout.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://keyboardchecker.com/"&gt;https://keyboardchecker.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://docs.qmk.fm/#/config_options"&gt;https://docs.qmk.fm/#/config_options&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you get stuck, there's a lot of information on the QMK site.&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-04-show-your-work/</guid><pubDate>Fri, 04 Sep 2020 14:45:48 GMT</pubDate></item><item><title>#KLPT - Dont hate, insulate!</title><link>https://jennetters.github.io/posts/2020-09-03-dont-hate-insulate/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;No matter how confident you are in your soldering. Insulate your work to prevent problems down the road.&lt;/p&gt;
 &lt;p&gt;#KeyboardLifeProTips&lt;/p&gt;&lt;/div&gt;</description><category>handwiring</category><category>klpt</category><category>mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-03-dont-hate-insulate/</guid><pubDate>Thu, 03 Sep 2020 17:34:35 GMT</pubDate></item><item><title>Long time no build</title><link>https://jennetters.github.io/posts/2020-09-02-long-time-no-build/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;From the "not so hot-off-the-press" files comes a build that's been on my to-do list since February. I was asked to have a go at the &lt;a href="https://github.com/ramonimbao/dactyl-ez2print"&gt;Dactyl EZ-to-Print&lt;/a&gt;... turns out it wasn't &lt;i&gt;that&lt;/i&gt; easy to actually print. I had some difficulties with sagging and getting thex openings for the switches to stay crisp but in the end, I made it work.&lt;/p&gt;
-&lt;div align="center"&gt;&lt;img src="https://jennetters.github.io/images/dactylEZ/Dactyl_is_Art.thumbnail.jpg" alt="Art!"&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;img src="https://jennetters.github.io/images/dactylEZ/Dactyl_is_Art.thumb.jpg" alt="Art!"&gt;&lt;/div&gt;
 
 &lt;p&gt;With all the parts ready to go I started following the assembly on the repo for the case, but it looks you're meant to put the back on before wiring, just to hold it together... soooooo I went rogue and did my own thing.&lt;/p&gt;
-&lt;div align="center"&gt;&lt;img src="https://jennetters.github.io/images/dactylEZ/DactylEZ2PrintParts.thumbnail.jpg" alt="3D Printed Components to build the Left half of the keyboard"&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;img src="https://jennetters.github.io/images/dactylEZ/DactylEZ2PrintParts.thumb.jpg" alt="3D Printed Components to build the Left half of the keyboard"&gt;&lt;/div&gt;
 
 &lt;p&gt;Stay tuned for progress.&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl</category><category>mechanical keyboard</category><category>ortholinear</category><category>photos</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2020-09-02-long-time-no-build/</guid><pubDate>Wed, 02 Sep 2020 23:07:48 GMT</pubDate></item><item><title>When your boss, who is also the CEO, asks for your help building a surprise dactyl...</title><link>https://jennetters.github.io/posts/2019-05-03-its_litt/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;Woooaaah nelly! These Dactyl boards sure are popular!&lt;/p&gt;
 &lt;p&gt;Spoiler Alert: That's because they're great!&lt;/p&gt;
@@ -69,17 +121,4 @@ Woo!&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><categor
 &lt;p&gt;I've been using the dactyl exclusively since bringing it to work and well... it's different:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/ZE2On6G"&gt;&lt;img src="https://i.imgur.com/ZE2On6G.png" title="source: imgur.com"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I have faith! &lt;/p&gt;
-&lt;p&gt;This is my first board with blank keys, and it's actually not even part of my problem. I just need to get used to the shape. &lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl manuform</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2019-03-05-typing-on-the-dactyl_manuform/</guid><pubDate>Mon, 04 Mar 2019 23:32:02 GMT</pubDate></item><item><title>Hand Wiring Adventures: Part 3</title><link>https://jennetters.github.io/posts/2018-12-05-hand-wiring-adventures-part3/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;Baby steps:&lt;/p&gt;
-&lt;blockquote class="imgur-embed-pub" lang="en" data-id="T55VXcn"&gt;&lt;a href="//imgur.com/T55VXcn"&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;Mapping the wires to the controller was pretty quick work and ended up being less soldering than using a pcb where you need to use the header pins. &lt;/p&gt;
-&lt;p&gt;Last steps are to find a suitable cable, then programming and I'll be done!&lt;/p&gt;
-&lt;p&gt;Woo!&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl manuform</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2018-12-05-hand-wiring-adventures-part3/</guid><pubDate>Thu, 06 Dec 2018 02:04:42 GMT</pubDate></item><item><title>Hand Wiring Adventures: Part 2</title><link>https://jennetters.github.io/posts/2018-12-04-hand-wiring-adventures-part2/</link><dc:creator>J.Net</dc:creator><description>&lt;div&gt;&lt;p&gt;It's not a bomb, but it's gonna be &lt;i&gt;da bomb&lt;/i&gt;! (seewhatididthere?).&lt;/p&gt;
-&lt;blockquote class="imgur-embed-pub" lang="en" data-id="aT0jeLr"&gt;&lt;a href="//imgur.com/aT0jeLr"&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;I made solid progress starting the columns, using the &lt;a href="https://github.com/tshort/dactyl-keyboard"&gt;assembly log from tshort on github&lt;/a&gt; as a guide. Because I'm just soldering to the pins on the switches there's a lot less movement of parts, making it much quicker. I laid out the wire along the column and used a marker to note where the pins lined up, then stripped the wire at these points and was able to solder each column in more or less one go.&lt;/p&gt;
-&lt;p&gt;Next steps are to add the controller and trrs jacks. I know the dactyl assembly log uses rj9 cable, but I've got trrs jacks handy and a few extra cables so I'm going to give them a shot.&lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl manuform</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2018-12-04-hand-wiring-adventures-part2/</guid><pubDate>Wed, 05 Dec 2018 03:10:10 GMT</pubDate></item></channel></rss>
+&lt;p&gt;This is my first board with blank keys, and it's actually not even part of my problem. I just need to get used to the shape. &lt;/p&gt;&lt;/div&gt;</description><category>3d printing</category><category>dactyl manuform</category><category>mechanical keyboard</category><category>ortholinear</category><category>split mechanical keyboard</category><guid>https://jennetters.github.io/posts/2019-03-05-typing-on-the-dactyl_manuform/</guid><pubDate>Mon, 04 Mar 2019 23:32:02 GMT</pubDate></item></channel></rss>

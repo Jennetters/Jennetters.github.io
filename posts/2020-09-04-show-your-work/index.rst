@@ -17,9 +17,11 @@ At all.
 
 This isn't my first rodeo, so I didn't expect anything to be perfect the first go around but it took some tinkering and digging to figure out that the pro-micro pins were slightly different from the pins used in the dactyl files on qmk.
 
-This isn't a big problem, at all, you just need to make sure the pins listed in the config.h file correspond to your wiring.
+This isn't a big problem, you just need to make sure the pins listed in the config.h file correspond to your wiring.
 
-link:galleries/dactyl_ez2print
+Here's some `progress pics`__.
+
+.. _Gallery: galleries/dactyl_ez2print
 
 Here's some resources that helped me out:
 
